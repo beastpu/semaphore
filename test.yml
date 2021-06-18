@@ -1,4 +1,4 @@
 - hosts: internal
   tasks:
      - name: "helloworld"
-       shell: echo "Hello World" `date` by `hostname` > /tmp/hello.log
+       shell: echo "He1llo World" `date` by `hostname` > /tmp/hello.log
